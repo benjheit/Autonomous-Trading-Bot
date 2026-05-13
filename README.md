@@ -74,6 +74,7 @@ multi-stage decision pipeline:
 
 ## Project Structure
 
+```
 AlpacaTradingBot/
 ├── main.py              # Core bot — scan loop, AI engine, position management
 ├── database.py          # SQLite trade logging and penalty box
@@ -85,6 +86,7 @@ AlpacaTradingBot/
 ├── equity_history.json  # Timestamped equity snapshots for chart
 ├── active_highs.json    # Trailing stop high-water marks
 └── swing_positions.json # Positions flagged for overnight holding
+```
 
 ---
 
