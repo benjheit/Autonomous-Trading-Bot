@@ -73,3 +73,53 @@ multi-stage decision pipeline:
 ---
 
 ## Project Structure
+
+AlpacaTradingBot/
+├── main.py              # Core bot — scan loop, AI engine, position management
+├── database.py          # SQLite trade logging and penalty box
+├── resurrect.py         # Utility to reset karma scores on all symbols
+├── .env                 # API keys (not committed)
+├── universe.json        # Watchlist with karma scores
+├── ai_trade_memory.json # Trade entry log with AI scores and outcomes
+├── trade_outcomes.json  # P/L record per closed trade
+├── equity_history.json  # Timestamped equity snapshots for chart
+├── active_highs.json    # Trailing stop high-water marks
+└── swing_positions.json # Positions flagged for overnight holding
+
+---
+
+## Setup
+
+```bash
+# Clone the repo
+git clone https://github.com/YOUR-USERNAME/autonomous-trading-bot.git
+cd autonomous-trading-bot
+
+# Install dependencies
+pip install alpaca-py openai newsapi-python pandas numpy matplotlib python-dotenv
+
+# Create your .env file
+ALPACA_KEY=your_key_here
+ALPACA_SECRET=your_secret_here
+OPENAI_KEY=your_key_here
+NEWS_API_KEY=your_key_here
+
+# Run
+python main.py
+```
+
+> ⚠️ This bot is configured for **paper trading only**. Never run algorithmic 
+> trading systems with real money without thorough backtesting and risk review.
+
+---
+
+## Status
+
+Active development. Current version: **v3.4 "Clean Slate"**
+
+Recent changes:
+- P/L calculation rewritten to derive directly from broker order fills 
+  (no memory file dependency)
+- AI ticker discovery disabled — bot now trades curated watchlist only
+- Regime detection bug fixed (bear ETFs no longer entered in BULL regime)
+- ATR stop floor added to prevent premature exits on low-volatility symbols
