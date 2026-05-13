@@ -1,0 +1,277 @@
+{
+    "TQQQ": {
+        "score": 95,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "SQQQ": {
+        "score": 75,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "SOXL": {
+        "score": 165,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "SOXS": {
+        "score": 40,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "SPXL": {
+        "score": 71,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "SPXS": {
+        "score": 80,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "NVDL": {
+        "score": 85,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "MSTX": {
+        "score": 0,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "CONL": {
+        "score": 47,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "BITX": {
+        "score": 77,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "YINN": {
+        "score": 100,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "YANG": {
+        "score": 50,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "MSTR": {
+        "score": 91,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "COIN": {
+        "score": 88,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "MARA": {
+        "score": 27,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "RIOT": {
+        "score": 32,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "CLSK": {
+        "score": 33,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "HOOD": {
+        "score": 70,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "CIFR": {
+        "score": 107,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "IREN": {
+        "score": 120,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "WULF": {
+        "score": 82,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "HUT": {
+        "score": 105,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "NVDA": {
+        "score": 87,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "AMD": {
+        "score": 100,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "TSM": {
+        "score": 85,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "AVGO": {
+        "score": 62,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "MU": {
+        "score": 140,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "ARM": {
+        "score": 91,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "SMCI": {
+        "score": 74,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "VRT": {
+        "score": 105,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "ALAB": {
+        "score": 50,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "PLTR": {
+        "score": 32,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "TSLA": {
+        "score": 84,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "META": {
+        "score": 90,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "AMZN": {
+        "score": 100,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "GOOGL": {
+        "score": 100,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "MSFT": {
+        "score": 70,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "AAPL": {
+        "score": 85,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "NFLX": {
+        "score": 72,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "CVNA": {
+        "score": 31,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "CVX": {
+        "score": 80,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "XOM": {
+        "score": 175,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "VLO": {
+        "score": 85,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "SLB": {
+        "score": 100,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "ROKU": {
+        "score": 81,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "DKNG": {
+        "score": 30,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "SHOP": {
+        "score": 46,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "AFRM": {
+        "score": 110,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "UPST": {
+        "score": 29,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "RDDT": {
+        "score": 30,
+        "added_date": "2026-01-20",
+        "source": "SEED"
+    },
+    "MOON": {
+        "score": 100,
+        "added_date": "2026-01-20",
+        "source": "AI"
+    },
+    "STLA": {
+        "score": 100,
+        "added_date": "2026-01-20",
+        "source": "AI"
+    },
+    "GSK": {
+        "score": 90,
+        "added_date": "2026-01-21",
+        "source": "AI"
+    },
+    "KHC": {
+        "score": 82,
+        "added_date": "2026-01-22",
+        "source": "AI"
+    },
+    "RYAAY": {
+        "score": 82,
+        "added_date": "2026-01-22",
+        "source": "AI"
+    }
+}
